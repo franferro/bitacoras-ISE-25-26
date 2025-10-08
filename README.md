@@ -31,4 +31,8 @@ Luego creamos new_var que es una copia de var que usaremos a partir de ahora par
 
 <img width="892" height="212" alt="Captura de pantalla 2025-10-01 171640" src="https://github.com/user-attachments/assets/600559d6-98c8-4cc8-ac32-59357bb0f8d1" />
 
+# Sesión 3 (08/10/2025):
+## P1-L3
+En esta práctica configuré un RAID1 por software en Alma Linux para que la información esté duplicada en dos discos y así no se pierda si uno falla igual que hicimos en la p1-l2, pero esta vez hemos cifrado el volumen donde se guarda /var para proteger los datos frente a posibles accesos no permitidos. Durante la práctica repasé los pasos para crear las particiones y configurar el RAID e instale y use por primera vez el cryptsetup para el cifrado.
 
+<img width="636" height="298" alt="Captura de pantalla 2025-10-08 170021" src="https://github.com/user-attachments/assets/cb2fd7cd-5bf4-4571-847e-3d4741a6d258" />
