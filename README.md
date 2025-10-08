@@ -20,6 +20,8 @@ Hemos iniciado la bitacora clonando el repositorio del profesor y lo hemos edita
 ## P1-L1
 Tambien hemos instalado una imagen de 'debian' en virtual box, haciendo una instalacion atendida con el objetivo de crear un raid1 para tener una copia de respaldo en caso de que fuese necesaria. Todo esto desde la propia interfaz de instalacion que ofrece debian, modificando la propiedades de las particiones, su formato, etc, sin usar practicamente comandos escritos.
 
+<img width="552" height="343" alt="Captura de pantalla 2025-10-07 193341" src="https://github.com/user-attachments/assets/e82e8a20-aed4-4d03-ad23-166f7e2c5c92" />
+
 # Sesión 2 (01/10/2025):
 ## P1-L2
 Hoy hemos instalado la imagen de almalinux en virtual box y a traves de lineas de comandos hemos creado nuestro usuario y le hemos dado privilegios editando un archivo con el comando 'visudo'.
